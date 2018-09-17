@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a  new brache is quick and simple.
 add dev
+add in github;
